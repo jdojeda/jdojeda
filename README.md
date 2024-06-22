@@ -1,8 +1,8 @@
 ### Hi there 👋
 
-* 🌍  I'm based in Paraguay
-* ✉️  You can contact me at [jdojeda@gmail.com](mailto:jdojeda@gmail.com)
+* 🌍  I'm based in Paraguay.
 * 🧠  I'm learning about development to expand my design with Figma.
+* ✉️  You can contact me at [jdojeda@gmail.com](mailto:jdojeda@gmail.com)
 
 
 # Skills
@@ -50,4 +50,3 @@
 <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/medium.svg" width="32" height="32" /> </picture> </a>
 <a href="https://www.x.com/jdojeda" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" /> </picture> </a>
 </p>
-ProfileMe.dev | Create an amazing GitHub profile in minutes
