@@ -35,7 +35,7 @@
 # General knowledge
 <p>
 <a href="https://www.linux.org" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/linux-colored.svg" width="36" height="36" alt="Linux" /></a>
-<a href="https://apple.com" target="_blank" rel="noreferrer"><img src="/assets/Icon-Mac.svg" width="36" height="36" alt="MacOS" /></a>
+<a href="https://apple.com" target="_blank" rel="noreferrer"><img src="/assets/icon-mac-os.svg" width="36" height="36" alt="MacOS" /></a>
 <a href="#" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" width="36" height="36" alt="MacOS" /></a>
 
 
